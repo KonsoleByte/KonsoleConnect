@@ -58,3 +58,7 @@ The goal is to be simple (like me)!
 
 KonsoleConnect is designed to be used entirely from a terminal. Half because I think its cool, 
 and half because it was between that or a web app and uhhhhhhhhhhh... so pretty much its gunna be super basic but still have QoL
+
+## Installation
+
+No install yet :p
