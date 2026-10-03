@@ -1,3 +1,7 @@
 Static {
     border: solid white;
 }
+
+Background {
+    color: aliceblue;
+}
